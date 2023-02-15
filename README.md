@@ -1,2 +1,5 @@
 # testedevops
-Criando o projeto para o curso de devops
+Este projeto está sendo criado para um teste de devops
+#Cadastro cliente - Dev 1
+#Cadastro Usuario - Dev 2
+#Cadastro Servios - Dev 3
